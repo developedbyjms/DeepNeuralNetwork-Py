@@ -19,7 +19,7 @@ DeepNeuralNetwork is a Python-based framework for building and training deep neu
 ## Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/DeepNeuralNetwork.git
+git clone https://github.com/developedbyjms/DeepNeuralNetwork-Py.git
 
 Navigate to the project directory:
 
